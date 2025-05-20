@@ -6,6 +6,7 @@ Android:
 1. Download the file "Calculator_v0.0.0_android-arm64.apk" (Android can show a pop-up saying that the program can be malicious. If you are really sure you want to install, just ignore it and tap "OK";
 2. After downloading, try to open the .apk file. Android will show a warning "For security, your phone can't install apps from unknown sources.". Tap "Settings" (or "Allow from this source") and turn on the option "Allow from this source". Then, go back and try to open the .apk file again;
 3. Tap "Install" and wait for the installation. Once the installation is done, tap "Open" or find the app on your phone's menu.
+
 Windows:
 1. Download the file "Calculator_v0.0.0_win-x64.zip";
 2. Once the download is done, click on "Save as..." to choose file location or click "Save" to save on default file location;
